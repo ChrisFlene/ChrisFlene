@@ -1,9 +1,9 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 [![Twitter: set\_official](https://img.shields.io/twitter/follow/set\_official.svg?style=social)](https://twitter.com/set\_official)
-![issue](https://img.shields.io/github/issues/SystemEngineeringTeam/HackU-2021-vol3?style=flat-square)
-[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/SystemEngineeringTeam/HackU-2021-vol3/blob/main/LICENSE.%F0%9F%8D%A3.md)
+![issue](https://img.shields.io/github/issues/SystemEngineeringTeam/jupytertheme?style=flat-square)
+[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/SystemEngineeringTeam/jupytertheme/blob/main/LICENSE.%F0%9F%8D%A3.md)
 
-# Welcome to S.S.R. (Shared Study Room) 👋
+# jupytertheme
 
 ![cE0Y17s](https://user-images.githubusercontent.com/26848713/155747280-03a6c3ec-89bc-4bd3-bceb-757f224a5f47.jpg)
 
@@ -30,9 +30,9 @@
 初めに、GitHubからクローンします。
 
 ```
-$ git clone git@github.com:SystemEngineeringTeam/HackU-2021-vol3.git
+$ git clone git@github.com:SystemEngineeringTeam/jupytertheme.git
 
-$ cd HackU-2021-vol3
+$ cd jupytertheme
 ```
 
 次に、バックエンドの構築をします。
