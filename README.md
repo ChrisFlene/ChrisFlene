@@ -3,7 +3,7 @@
 ![issue](https://img.shields.io/github/issues/SystemEngineeringTeam/jupytertheme?style=flat-square)
 [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/SystemEngineeringTeam/jupytertheme/blob/main/LICENSE.%F0%9F%8D%A3.md)
 
-# jupytertheme
+# ChrisFlene
 
 ![cE0Y17s](https://user-images.githubusercontent.com/26848713/155747280-03a6c3ec-89bc-4bd3-bceb-757f224a5f47.jpg)
 
